@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-1. Data Background (The Problem)
+## 1. Data Background (The Problem)
 The Indian telecommunications sector is highly competitive. A major challenge for providers (like Airtel, Jio, Vodafone, BSNL) is **customer churn**—when users stop using their services. 
 
 This project aims to predict customer churn by analyzing two datasets:
